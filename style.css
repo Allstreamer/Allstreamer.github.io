@@ -10,11 +10,17 @@ header {
 }
 header a {
   position: relative;
-  left: 90%;
-  bottom: 100px;
+  left: 40%;
+  bottom: 50%;
 }
+header .Column {
+  padding-top: 0%;
+}
+
 h1 {
   color: black;
+  min-width: 10px;
+  min-height: 10px;
   margin: 10px;
   font-size: 60px;
   margin-top: 30px;
