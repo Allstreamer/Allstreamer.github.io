@@ -1,5 +1,5 @@
 <script lang="ts">
-    import Github from "../assets/Github.svg";
+    import Github from "../assets/GitHub.svg";
     import StackOverflow from "../assets/stackoverflow.svg";
     import Youtube from "../assets/youtube.svg";
     import Logo from "../assets/LogoOriginal.webp";
