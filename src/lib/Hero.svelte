@@ -13,13 +13,13 @@
         <h2>Hobbyist Developer</h2>
         <div class="accounts">
           <a target=”_blank” href="https://github.com/Allstreamer">
-            <img src={Github} alt="Github" />
+            <img src={Github} alt="Github" width=100 height=100/>
           </a>
           <a target=”_blank” href="https://stackoverflow.com/users/12520976/allstreamer">
-            <img src={StackOverflow} alt="Stackoverflow" />
+            <img src={StackOverflow} alt="Stackoverflow" width=100 height=100/>
           </a>
           <a target=”_blank” href="https://www.youtube.com/@allstreamer_">
-            <img src={Youtube} alt="Youtube" />
+            <img src={Youtube} alt="Youtube" width=100 height=100/>
           </a>
         </div>
       </div>

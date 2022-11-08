@@ -6,6 +6,11 @@
 
 <svelte:head>
   <link rel="icon" type="image/ico" href={Logo} />
+  <meta name="description" content=
+    "My personal Portfolio page, soon to be
+    hosting a blog and interesting projects
+    to be viewed and found!"
+  >
 </svelte:head>
 
 <Navbar></Navbar>
